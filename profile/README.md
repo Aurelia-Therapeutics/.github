@@ -4,7 +4,7 @@
 
 <h1 style="color:#0E2841;">Aurelia Therapeutics</h1>
 
-<p><em>Novel antibiotics for difficult infections.</em></p>
+<p><em>Scientific innovation - delivered by design</em></p>
 
 <a href="#about"><img src="https://img.shields.io/badge/About-0E2841?style=for-the-badge" alt="About"/></a>
 <a href="#contact"><img src="https://img.shields.io/badge/Contact-C9A227?style=for-the-badge" alt="Contact"/></a>
